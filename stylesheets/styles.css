@@ -123,15 +123,15 @@ body{
     
 }
 
-.resume .resume_right .table{
-    width: 100%;
-    margin-bottom: 15px;
-}
-
 .resume .resume_right{
     width: 520px;
     background: #fff;
     padding: 25px;
+}
+
+.resume .resume_right .table{
+    width: 100%;
+    margin-bottom: 15px;
 }
 
 .resume .resume_right .bold{
