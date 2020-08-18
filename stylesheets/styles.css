@@ -122,3 +122,59 @@ body{
     width: 25% ;
     
 }
+
+.resume .resume_right .table{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.resume .resume_right{
+    width: 520px;
+    background: #fff;
+    padding: 25px;
+}
+
+.resume .resume_right .bold{
+    color: #0bb5f4;
+}
+
+.resume .resume_right .resume_work ul,
+.resume .resume_right .resume_education ul,
+.resume .resume_right .resume_references{
+    padding-left: 40px;
+    overflow: hidden;
+}
+
+.resume .resume_right ul li{
+    position:relative;
+}
+
+.resume .resume_right ul li .date{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.resume .resume_right ul li .date:first-child{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.resume .resume_right ul li .info{
+    margin-bottom: 20px;
+}
+
+.resume .resume_right ul li:last-child .info{
+    margin-bottom: 0px;
+}
+
+.resume .resume_right .resume_references ul li{
+    margin-bottom: 20px;
+}
+
+.resume .resume_right .resume_references .regular{
+    margin-top: 20px;
+}
