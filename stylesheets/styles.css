@@ -8,7 +8,7 @@
   font-family: 'Sora', sans-serif;
 }
 
-body{
+html,body{
     background: #585c68;
     font-size: 14px;
     line-height: 22px;
