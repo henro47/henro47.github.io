@@ -178,3 +178,8 @@ html,body{
 .resume .resume_right .resume_references .regular{
     margin-top: 20px;
 }
+
+.resume .resume_right .resume_about{
+    text-align: justify;
+    text-justify: inter-word;
+}
