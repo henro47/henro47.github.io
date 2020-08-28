@@ -246,6 +246,24 @@ html,body{
     }
 }
 
+.resume .resume_left .resume_social .bold{
+    margin-bottom: 20px;
+}
+
+.resume .resume_left .resume_download .bold{
+    margin-bottom: 20px;
+}
+
+.resume .resume_left .resume_download .btn_download{
+    margin-left: 15px;
+    background: #555555;
+    border: none ;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
 .resume .resume_right{
     width: 520px;
     background: #fff;
